@@ -14,7 +14,7 @@ In addition, Tripod has embedded more and more ads over the years, ruining the e
 
 ## Changes
 
-I've attempted to make as few changes as possible in order to preserve his original HTML coding.
+I've attempted to make as few changes as possible in order to preserve his original HTML coding, table-based layout and all.
 
 Redundant images and other assets have been pruned. Tripod's obtrusive ads and tracking JavaScript have been removed, of course.
 
