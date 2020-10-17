@@ -20,6 +20,8 @@ Redundant images and other assets have been pruned. Tripod's obtrusive ads and t
 
 Unsurprisingly, the web has moved forward in the last twenty years and so I've made minor styling and layout changes in order to keep his site rendering as I believe he would have intended.
 
+This version of the website is statically hosted in AWS' S3. As such, I've added extra content, like `/error.html` to handle errors.
+
 ## External Links
 
 Many of the external pages, webrings, counters, etc are no longer functioning. I've decided to leave these URLs intact for now.
