@@ -1,5 +1,7 @@
 # A Dreamer's World
 
+![A Dreamer's World](/htdocs/media/images/IXdlogo.gif)
+
 This is an archive of my late father's personal homepage circa late 1990s.
 
 His site was hosted on Tripod and, as of this writing, is accessible at the following URL:
