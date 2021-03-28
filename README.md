@@ -1,6 +1,6 @@
 # A Dreamer's World
 
-![A Dreamer's World](/htdocs/media/images/IXdlogo.gif)
+![A Dreamer's World](/docs/media/images/IXdlogo.gif)
 
 This is an archive of the personal homepage of my late father (Michael Blair) circa late 1990s.
 
@@ -20,7 +20,7 @@ Redundant images and other assets have been pruned. Tripod's obtrusive ads and t
 
 Unsurprisingly, the web has moved forward in the last twenty years and so I've made minor styling and layout changes in order to keep his site rendering as I believe he would have intended.
 
-This version of the website is statically hosted in AWS' S3. As such, I've added extra content, like `/error.html` to handle errors.
+This version of the website is statically hosted via GitHub Pages. As such, I've added extra content, like `/404.html` to handle errors.
 
 ## External Links
 
